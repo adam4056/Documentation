@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Documentation
 
 This documentation will guide you through customizing the provided template. The template consists of two main files: `index.html` and `styles.css`.
